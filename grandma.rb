@@ -13,5 +13,5 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 
 def speak_to_grandma("I LOVE YOU GRANDMA!")
-  else phrase == "Hello"
+  else "I LOVE YOU GRANDMA!" == "Hello"
   "HUH?! SPEAK UP, SONNY!"
